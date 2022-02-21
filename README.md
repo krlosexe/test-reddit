@@ -3,7 +3,7 @@
 
 
 1 - Clone Project
-### `git clone https://github.com/krlosexe/test-reedit.git`
+### `git clone https://github.com/krlosexe/test-reddit.git`
 
 
 2 - Go to folder
